@@ -7,7 +7,7 @@ tensorflow==2.3.1
 tensorflow-estimator==2.3.0
 tensorflow-probability==0.9.0
 
-@author: oehlers
+@author: sbailò, oehlers
 """
 
 import numpy as np
